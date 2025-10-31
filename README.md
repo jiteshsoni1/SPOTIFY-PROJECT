@@ -1,3 +1,3 @@
-# Css major project
+# SPOTIFY PROJECT
 
-This is a Html CSS Spotify clone Project
+This is a Html,CSS Spotify clone Project
